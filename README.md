@@ -1,3 +1,14 @@
-Hi Šarūnas,
+from flask import Flask
 
-So basically you just copy this code to your python IDE or just write these lines by hand to python and Vuola!
+app = Flask(__name__)
+
+@app.route("/")
+def index():
+return "Sveiks, Šernūnai"
+
+@app.route("/<eik_tu>")
+def eik_tu(eik_tu):
+return "sau!"
+
+if __name__ == "__main__":
+app.run(debug=True)
