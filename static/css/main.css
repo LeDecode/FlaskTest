@@ -1,0 +1,25 @@
+body {
+background-image: url("https://g4.dcdn.lt/images/pix/1200x750/Li70Czo3PIc/sernas-sernai-4-79521233.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+height: 100%;
+width: 100%;
+}
+
+h1 {
+font-size: 100px;
+}
+
+p{
+font-size: 10px;
+}
+
+div{
+font-size: 100px;
+color: white;
+}
