@@ -1,3 +1,3 @@
-Open terminal/command line and Install Flask \n
-Export All the files from this repository to you virtual enviornment folder \n
-Run the code \n
+Open terminal/command line and Install Flask <br>
+Export All the files from this repository to you virtual enviornment folder <br>
+Run the code <br>
